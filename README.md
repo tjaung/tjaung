@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full stack applications**
 
-- 👨‍💻 All of my projects are available at [https://timjaung.netlify.app/](https://timjaung.netlify.app/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://timjaung.com/)
 
 - 📫 How to reach me **jaungt@gmail.com**
 
