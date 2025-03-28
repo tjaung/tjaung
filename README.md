@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjaung&label=Profile%20views&color=0e75b6&style=flat" alt="tjaung" /> </p>
 
-- 🔭 I’m currently working on [DJ Condescension](https://github.com/tjaung/DJCondescension)
-
 - 🌱 I’m currently learning **Django and C**
 
 - 👯 I’m looking to collaborate on **full stack applications**
